@@ -13,6 +13,7 @@
 		F75469F624D079E400FA776C /* ToDoList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F75469F424D079E400FA776C /* ToDoList.xcdatamodeld */; };
 		F75469F824D079E500FA776C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F75469F724D079E500FA776C /* Assets.xcassets */; };
 		F75469FB24D079E500FA776C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75469F924D079E500FA776C /* LaunchScreen.storyboard */; };
+		F7546A0524D08A6900FA776C /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7546A0424D08A6900FA776C /* ToDoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F75469F724D079E500FA776C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F75469FA24D079E500FA776C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F75469FC24D079E500FA776C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F7546A0424D08A6900FA776C /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F75469EB24D079E400FA776C /* AppDelegate.swift */,
 				F75469ED24D079E400FA776C /* SceneDelegate.swift */,
 				F75469F124D079E400FA776C /* Main.storyboard */,
+				F7546A0424D08A6900FA776C /* ToDoTableViewController.swift */,
 				F75469F724D079E500FA776C /* Assets.xcassets */,
 				F75469F924D079E500FA776C /* LaunchScreen.storyboard */,
 				F75469FC24D079E500FA776C /* Info.plist */,
@@ -141,6 +144,7 @@
 				F75469EC24D079E400FA776C /* AppDelegate.swift in Sources */,
 				F75469EE24D079E400FA776C /* SceneDelegate.swift in Sources */,
 				F75469F624D079E400FA776C /* ToDoList.xcdatamodeld in Sources */,
+				F7546A0524D08A6900FA776C /* ToDoTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
